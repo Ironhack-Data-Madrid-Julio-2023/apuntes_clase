@@ -59,7 +59,7 @@
 + **M:** Testeo de hipótesis 
 + **X:** Más Testeo de hipótesis
 + **J:** AB testing (Bayes)
-+ **V: Proyecto CRO (Conversion Rate Optimization - UX/Data)**
++ **V: Proyecto Stats**
 
 
 
